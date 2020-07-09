@@ -1,0 +1,54 @@
+.card-img{
+    height: 655px !important;
+}
+.card-img-overlay{
+    text-align: center !important;
+    margin-top: 50px !important;
+}
+
+.pic{
+    width: 150px;
+    height: 150px;
+}
+
+.card-text{
+    color: palevioletred;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.horizontal{
+  width: 120px;
+  border: 2px dashed goldenrod;
+  margin-top: 0px;
+}
+
+.second{
+   text-align: center;
+}
+.main{
+    display: inline-block;
+   font-size: 5em;
+   margin-top: 15px;
+   font-weight: 600;
+   color: goldenrod;
+}
+
+.btn{
+    background-color: palevioletred !important;
+    color: papayawhip !important;
+    border-radius: 20px !important;
+    width: 100px !important;
+    margin-top: 40px;
+    font-size: 12pt !important;
+    font-style: italic !important;
+    font-weight: bold !important;
+}
+
+.if{
+    display: inline-block;
+    width: 110px;
+    color: rgb(172, 110, 48);
+    font-style: italic;
+    font-weight: bold;
+}
